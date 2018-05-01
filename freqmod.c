@@ -32,5 +32,5 @@ module_init(freqmod_init);
 module_exit(freqmod_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Test <tst@example.com>");
+MODULE_AUTHOR("Test <test@example.com>");
 MODULE_DESCRIPTION("freqmod test");
